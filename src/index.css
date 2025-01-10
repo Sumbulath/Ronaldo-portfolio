@@ -1,0 +1,30 @@
+#Homepage{
+  background-color: rgb(228, 18, 18);
+  height: calc(100vh - 56px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://images7.alphacoders.com/961/thumb-1920-961878.jpg");
+  background-size: cover;
+}
+.trophy{
+  font-size: 50px;
+  color: yellow;
+  
+ 
+}
+.GalleryImage{
+  height: 500px;
+  object-fit: contain;
+  width: 100%;
+}
+#contact{
+  background-color: #333;
+ 
+}
+#footerdiv{
+  position: absolute;
+  width: 100%;
+
+}
